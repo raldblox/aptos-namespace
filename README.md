@@ -1,1 +1,1 @@
-# aptos-namespace
+# APTOS NAMESPACE
