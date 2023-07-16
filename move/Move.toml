@@ -1,0 +1,15 @@
+[package]
+name = 'namespace_records'
+version = '1.0.0'
+authors = []
+
+[addresses]
+nsrecord_addr='d9ccf18a51409e99ea372caf21ca6cf51da116c76e7e77eca5dd59663735ccde'
+
+[dev-addresses]
+[dependencies.AptosFramework]
+git = 'https://github.com/aptos-labs/aptos-core.git'
+rev = 'mainnet'
+subdir = 'aptos-move/framework/aptos-framework'
+
+[dev-dependencies]
